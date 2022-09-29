@@ -1,2 +1,2 @@
 print ("Hello world ")
-print ("this is batch one fycs")
+print ("This is batch one fycs")
